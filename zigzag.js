@@ -18,4 +18,3 @@ let convert = function(s, numRows){
     return buckets.join('');
 }
 
-let res = convert("paypalishiring", 3).toString;
